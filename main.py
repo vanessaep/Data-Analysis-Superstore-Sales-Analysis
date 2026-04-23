@@ -1,4 +1,5 @@
 # Objective 
+# Analyze retail data to uncover profitability drivers and provide actionable business recommendations.
 # Analyze retail sales data to uncover trends, identify top-performing categories, and generate business insights. 
 # Dataset
 # Source: Kaggle (Superstore Sales Dataset)
