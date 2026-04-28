@@ -59,15 +59,6 @@ sns.barplot(x='Category', y='Sales', data=df)
 plt.title("Sales by Category")
 plt.show() 
 
-
-
-
-
-
-
-
-
-
 # Advanced Analysis 
 # Convert dates 
 df['Order Date'] = pd.to_datetime(df['Order Date'])
